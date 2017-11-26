@@ -1,0 +1,17 @@
+.chart-content {
+	-fx-padding: 30px;
+}
+
+.chart-title {
+	-fx-font-size: 30px;
+}
+.axis-label {
+  -fx-font-size: 36px;
+}
+.chart-legend {
+   -fx-background-color:  transparent;
+   -fx-font-size: 18px;
+}
+.axis{
+	-fx-tick-label-font-size: 24px;
+}
